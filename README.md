@@ -2,7 +2,7 @@
 
 [![Join our Discord server!](https://img.shields.io/badge/Discord-Join%20us!-brightgreen)](https://discord.gg/n9hXaBPWxx)
 
-Welcome to VectorChat, an innovative AI chatbot that uses GPT-4 and is optimized for learning and personal growth. The bot is based on Dave Shapiro's [Reflective Journaling Tool](https://github.com/daveshap/Reflective_Journaling_Tool), but VectorChat expands upon the original concept with the inclusion of vector processing capabilities. 
+Welcome to VectorChat, an innovative AI chatbot that uses GPT-4 and is optimized for learning and personal growth. The bot is based on Dave Shapiro's [Reflective Journaling Tool](https://github.com/daveshap/Reflective_Journaling_Tool)
 
 The more you interact with VectorChat, the more it adapts to your style, learning about you as you learn from it. Its dynamic nature makes it an excellent tool for a variety of applications, including task-directed or general chat purposes.
 
