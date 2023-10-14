@@ -16,4 +16,4 @@ The UPD should not exceed approximately 1000 words. When revising the UPD, give 
 
 
 Current user profile: (Current word count: <<WORDS>>)
-<<UPD>>
+<<PROFILE>>
