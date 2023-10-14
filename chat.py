@@ -195,9 +195,12 @@ def handle_knowledge_base_update(collection, main_scratchpad):
         update_existing_document_in_collection(collection, main_scratchpad, kb, kb_id)
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("API key is required. Exiting.")
-        sys.exit(1)
+    try:
+        if len(sys.argv) < 2:
+            print("API key is required. Exiting.")
+            sys.exit(1)
 
-    api_key = sys.argv[1]
-    main(api_key)
+        api_key = sys.argv[1]
+        main(api_key)
+    except KeyboardInterrupt:
+        sys.exit(0)
